@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="theme1Background" format="color"/>
+    <attr name="theme2Background" format="color"/>
+    <attr name="theme3Background" format="color"/>
+    <attr name="theme4Background" format="color"/>
+</resources>

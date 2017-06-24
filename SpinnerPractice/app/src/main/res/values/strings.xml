@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner Practice</string>
+    <string-array name="dropdown">
+        <item name = "theme1">Theme1</item>
+        <item name = "theme2">Theme2</item>
+        <item name = "theme3">Theme3</item>
+        <item name = "theme4">Theme4</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WhatsMyPayment</string>
+    <string name="principal">How much do you \nwant?</string>
+    <string name="downPayment">How much you putting \ndown on it?</string>
+    <string name="interest">What\'s the interest \nrate?</string>
+    <string name="duration">How much time do you \nhave to pay back?</string>
+    <string name="principalInput">   Principal  </string>
+    <string name="paymentInput">Down Payment</string>
+    <string name="interestInput"> Interest Rate </string>
+    <string name="durationInput">Duration(Months)</string>
+    <string name="submit">Let\'s see....</string>
+    <string name="restart">Try Another</string>
+    <string name="option">Select the type of loan \nyou are trying to get \nfrom the list below</string>
+    <string-array name="loans">
+        <item name = "home">Home Loan</item>
+        <item name = "car">Car Loan</item>
+        <item name = "simple">Student Loan</item>
+        <item name = "student">Simple Loan</item>
+    </string-array>
+
+</resources>
